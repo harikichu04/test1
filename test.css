@@ -1,0 +1,57 @@
+body,#big{
+    margin: 0px;
+}
+#logo{
+    float: left;
+}
+#menu{
+    float: right;
+    padding: 20px;
+}
+#menuright{
+    font-size: 20px;
+    color: white;
+    padding-bottom: 30px;
+
+}
+
+#top{
+    background-color: rgb(13, 97, 69);
+    height: 50px;
+    padding: 20px;
+    
+}
+#bold{
+    margin: 20px;
+    text-align: center;
+
+}
+#box{
+    margin: 150px 200px;
+}
+#para{
+    float: left;
+    width: 500px;
+}
+#inright{
+    float:right;
+
+}
+#gall{
+    width: 150px;
+    height: 100px;
+    padding:10px 100px
+
+}
+#gall2{
+    padding: 10px 60px;
+}
+#more{
+    float: right;
+    padding-right: 50px;
+    font-size: large;
+    margin: 0px;
+    text-decoration: underline;
+}
+
+
